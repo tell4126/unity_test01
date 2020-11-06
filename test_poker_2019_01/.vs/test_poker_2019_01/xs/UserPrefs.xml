@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{20F377DE-3A46-96F1-7DA6-620BE05F6ACD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HandActionContoroler.cs">
+    <Files>
+      <File FileName="Assets/Scripts/HandActionContoroler.cs" Line="10" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6bff7ffb-2103-4dc5-b56d-ed07135a313d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
